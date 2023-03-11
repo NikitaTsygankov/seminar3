@@ -28,3 +28,19 @@ Git это рабочая среда для написания проекта и
 
 Командой git commit -m "comment" вносим коментарий и записываем log
 
+## __*Используемые команды:*__
+
+    git init
+    git add <file_name>
+    git commit
+    git commit -m "name change"
+    git commit -a
+    git commit -am "name change"
+    git diff
+    git diff <hash1> <hash2>
+    git log
+    git log --oneline
+    git log --all
+    git log --all --oneline
+    git checkout <hash>
+    git checkout master
